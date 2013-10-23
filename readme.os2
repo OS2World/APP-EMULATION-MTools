@@ -1,0 +1,20 @@
+This is the OS/2 port of the 4.0.17 version of MTools, a common Un*x way of accessing
+MS-DOS formatted disks.
+
+Even if today it seems useless, I found it could be handy to have a new release available.
+
+Please consider making a donation to Paul Smedley, for I used GCC 4.5.2 to build it -
+and it worked flawlessly.
+
+As always, I can't assure you this package won't trash your entire system, so "use it at
+your own risk": you'we been warned. Altough, I did never hear about damages occurring
+from Mtools.
+
+If you think it's good keeping porting and developing for OS/2, please let me know! It's
+so good to hear news from the OS/2 community.
+If you think I'm just wasting my time... Well, let me know the same! :)
+
+Have fun.
+Mentore Siesto
+Pisa, Italy
+mentore.siesto@alice.it
